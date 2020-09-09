@@ -24,7 +24,11 @@
 <td align="center" width="20%">
 <span><b><center>C</center></b></span> 
 <img height=65px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREgU2c6mPvCxrnBNTk-fgjY8juslOnIBWq9Q&usqp=CAU"> 
-</td>  
+</td> 
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+</td>
 </tr>
 
 <tr>
@@ -38,13 +42,6 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
 <img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
 </td>
@@ -54,10 +51,6 @@
 <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
 </td>
 
-<td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
-</td>
 </tr>
 
 </tbody>
