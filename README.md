@@ -6,42 +6,49 @@
 ## My daily tech stack
 
 <br>
-<table>
+<table style="background:white">
 <tbody>
 
 <tr>
-<td align="center" width="20%">
+<td align="center" width="16%">
   <p><b><center>Python</center></b></p>
   <a href="https://www.python.org/" alt="Python 3">
     <img height=65px src="https://img.icons8.com/color/2x/python.png">
   </a>
 </td>
   
-<td align="center" width="20%">
+<td align="center" width="16%">
   <p><b><center>C++</center></b></p>
   <a href="https://www.youtube.com/watch?v=uTxRF5ag27A&t=5400s&ab_channel=LexFridman" alt="C++">
     <img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
   </a>
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="16%">
   <p><b><center>C</center></b></p>
   <a href="https://www.youtube.com/watch?v=de2Hsvxaf8M&ab_channel=Computerphile" alt="C">
     <img height=65px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREgU2c6mPvCxrnBNTk-fgjY8juslOnIBWq9Q&usqp=CAU">
   </a>
 </td> 
 
-<td align="center" width="20%">
+<td align="center" width="16%">
   <p><b><center>LLVM/Clang</center></b></p>
   <a href="https://llvm.org/" alt="LLVM">
     <img height=65px src="https://upload.wikimedia.org/wikipedia/en/4/4c/LLVM_Logo.svg"> 
   </a>
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="16%">
   <p><b><center>Git</center></b></p>
   <a href="#" alt="Git">
     <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+  </a>
+</td>
+  
+  <td align="center" width="16%">
+  <p><b><center>Bash</center></b></p>
+  <a href="#" alt="Bash">
+    <img height=65px  src="https://linube.com/blog/wp-content/uploads/bash-logo.png"> 
   </a>
 </td>
 
@@ -51,7 +58,10 @@
 </table>
 
 <hr>
+  
+## Almost daily tech stack
 
+  * Assembly (x86-64), Intel Intrinsics, Docker
+  
 ## Not daily tech stack
-  * Java, Assembly (x86-64), VHDL, Intel Intrinsics
-  * Web "languages": <a href="https://www.destroyallsoftware.com/talks/wat" alt="WAT">Javascript</a>, HTML5/CSS3
+  * VHDL, Java, Web "languages" (<a href="https://www.destroyallsoftware.com/talks/wat" alt="WAT">Javascript</a>, HTML5/CSS3)
