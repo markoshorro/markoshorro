@@ -34,7 +34,7 @@
 <td align="center" width="20%">
   <p><b><center>LLVM/Clang</center></b></p>
   <a href="https://llvm.org/" alt="LLVM">
-    <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/4/4f/DragonFull.png"> 
+    <img height=65px src="https://upload.wikimedia.org/wikipedia/en/4/4c/LLVM_Logo.svg"> 
   </a>
 </td>
 
