@@ -34,21 +34,21 @@
 <td align="center" width="16%">
   <p><b><center>LLVM/Clang</center></b></p>
   <a href="https://llvm.org/" alt="LLVM">
-    <img height=65px src="https://upload.wikimedia.org/wikipedia/en/4/4c/LLVM_Logo.svg"> 
+    <img height=65px src="https://llvm.org/img/LLVMWyvernSmall.png"> 
   </a>
 </td>
 
 <td align="center" width="16%">
   <p><b><center>Git</center></b></p>
   <a href="#" alt="Git">
-    <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+    <img height=65px src="https://jartigag.xyz/assets/images/posts/git.png"> 
   </a>
 </td>
   
   <td align="center" width="16%">
-  <p><b><center>Bash</center></b></p>
+  <p><b><center>Bash/Zsh</center></b></p>
   <a href="#" alt="Bash">
-    <img height=65px  src="https://linube.com/blog/wp-content/uploads/bash-logo.png"> 
+    <img height=65px  src="https://ih1.redbubble.net/image.873712185.1372/st,small,507x507-pad,600x600,f8f8f8.jpg"> 
   </a>
 </td>
 
