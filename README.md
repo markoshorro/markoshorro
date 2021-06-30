@@ -1,12 +1,12 @@
 
 <h2 align="center">Markos Horro</h2> 
 
-<p align="center"> <samp>I'm Marcos Horro (but I write it with 'k'). Computer engineer (BSc '16, MSc '18 @ <a href="https://www.udc.gal/en/" alt="Universidade da Coruña">UDC</a>), currently doing a PhD in Computer Science. I have my full profile at <a href="https://www.linkedin.com/in/marcoshorro/">LinkedIn</a>.
+<p align="center"> <samp>Hi! I am Marcos Horro (but I write it with 'k'). Computer engineer (BSc '16, MSc '18 @ <a href="https://www.udc.gal/en/" alt="Universidade da Coruña">UDC</a>), currently finishing a PhD program in Computer Science at the same Univeristy. I have my full profile at <a href="https://www.linkedin.com/in/marcoshorro/">LinkedIn</a>.
   
 ## My daily tech stack
 
 <br>
-<table style="background:white">
+<table>
 <tbody>
 
 <tr>
@@ -56,7 +56,6 @@
 
 </tbody>
 </table>
-
 <hr>
   
 ## Almost daily tech stack
