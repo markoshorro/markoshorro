@@ -67,7 +67,7 @@
   
 ## Almost daily tech stack
 
-  * Assembly (x86-64), Intel Intrinsics, Docker
+  * Intel Intrinsics, Docker
   
 ## Not daily tech stack
-  * VHDL, Java, Web "languages" (<a href="https://www.destroyallsoftware.com/talks/wat" alt="WAT">Javascript</a>, HTML5/CSS3)
+  * VHDL, Java, Web "languages" (<a href="https://www.destroyallsoftware.com/talks/wat" alt="WAT">Javascript</a>, HTML5/CSS3), R, OCaml
