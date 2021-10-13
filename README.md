@@ -70,4 +70,4 @@
   
 ## Other technologies I am familiar/have worked with:
 
-  * VHDL, Java, Docker, Jekyll, Django, Web "languages" (<a href="https://www.destroyallsoftware.com/talks/wat" alt="WAT">Javascript</a>, HTML5/CSS3), R, OCaml
+  * Java, Docker, Django, Web "languages" (<a href="https://www.destroyallsoftware.com/talks/wat" alt="WAT">Javascript</a>, HTML5/CSS3), R, OCaml
