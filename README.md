@@ -1,10 +1,8 @@
 
 <h2>Markos Horro</h2> 
 
-<p> Computer engineer (BSc '16, MSc '18 @ <a href="https://www.udc.gal/en/" alt="Universidade da Coruña">UDC</a>), currently finishing a PhD program in Computer Science at the same Univeristy. My full profile at <a href="https://www.linkedin.com/in/marcoshorro/">LinkedIn</a>.
-  
-  Currently contributing to [LLVM-MCA](https://llvm.org/docs/CommandGuide/llvm-mca.html).
-  
+<p> Computer engineer (BSc '16, MSc '18, PhD '22 @ <a href="https://www.udc.gal/en/" alt="Universidade da Coruña">UDC</a>). Computer Architect @ AMD. My full profile at <a href="https://www.linkedin.com/in/marcoshorro/">LinkedIn</a>.
+
 ## My daily tech stack
 
 <br>
