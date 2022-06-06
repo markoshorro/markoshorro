@@ -1,7 +1,7 @@
 
 <h2>Markos Horro</h2> 
 
-<p> Computer Engineer (BSc '16, MSc '18, PhD '22 @ <a href="https://www.udc.gal/en/" alt="Universidade da Coruña">UDC</a>). Computer Architect @ AMD. My full profile at <a href="https://www.linkedin.com/in/marcoshorro/">LinkedIn</a>.
+<p> PhD Computer Engineer (BSc '16, MSc '18, PhD '22 @ <a href="https://www.udc.gal/en/" alt="Universidade da Coruña">UDC</a>). Computer Architect @ AMD. Full profile at <a href="https://www.linkedin.com/in/marcoshorro/">LinkedIn</a>.
 
 ## My daily tech stack
 
