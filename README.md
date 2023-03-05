@@ -45,20 +45,6 @@
   </a>
 </td>
   
-<td align="center" width="14%">
-  <p><b><center>VCS</center></b></p>
-  <a href="#" alt="Git">
-    <img height=65px src="https://jartigag.xyz/assets/images/posts/git.png"> 
-  </a>
-</td>
-  
-<td align="center" width="14%">
-  <p><b><center>Bash/Zsh</center></b></p>
-  <a href="#" alt="Bash">
-    <img height=65px  src="https://ih1.redbubble.net/image.873712185.1372/st,small,507x507-pad,600x600,f8f8f8.jpg"> 
-  </a>
-</td>
-  
 </tr>
 
 </tbody>
