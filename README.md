@@ -11,35 +11,30 @@
 
 <tr>  
 <td align="center" width="14%">
-  <p><b><center>C++</center></b></p>
   <a href="https://www.youtube.com/watch?v=uTxRF5ag27A&t=5400s&ab_channel=LexFridman" alt="C++">
     <img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
   </a>
 </td>
 
 <td align="center" width="14%">
-  <p><b><center>C</center></b></p>
   <a href="https://www.youtube.com/watch?v=de2Hsvxaf8M&ab_channel=Computerphile" alt="C">
     <img height=65px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREgU2c6mPvCxrnBNTk-fgjY8juslOnIBWq9Q&usqp=CAU">
   </a>
 </td>
   
 <td align="center" width="14%">
-  <p><b><center>VLIW</center></b></p>
   <a href="#" alt="Assembly">
     <img height=65px  src="https://i.stack.imgur.com/5b0Ue.png"> 
   </a>
 </td>
 
 <td align="center" width="14%">
-  <p><b><center>LLVM/Clang</center></b></p>
   <a href="https://llvm.org/" alt="LLVM">
     <img height=65px src="https://llvm.org/img/LLVMWyvernSmall.png"> 
   </a>
 </td>
 
 <td align="center" width="14%">
-  <p><b><center>Python</center></b></p>
   <a href="https://www.python.org/" alt="Python 3">
     <img height=65px src="https://img.icons8.com/color/2x/python.png">
   </a>
